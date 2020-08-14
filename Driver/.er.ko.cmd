@@ -1,1 +1,0 @@
-cmd_/home/zim/Документы/Driv/er.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/zim/Документы/Driv/er.ko /home/zim/Документы/Driv/er.o /home/zim/Документы/Driv/er.mod.o;  true
