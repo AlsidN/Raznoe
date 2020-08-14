@@ -1,0 +1,1 @@
+cmd_/home/zim/Документы/Driv/chardriv.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/zim/Документы/Driv/chardriv.ko /home/zim/Документы/Driv/chardriv.o /home/zim/Документы/Driv/chardriv.mod.o;  true
